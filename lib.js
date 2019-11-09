@@ -1,4 +1,12 @@
+const validate = (actual, required, property) => {
+	if (actual < required || actual % 2) {
+		throw new Error(`${property} should be even and greater or equal to ${required}, but ${actual} was given`);
+	}
+};
 const draw = (width, height, padding) => {
+	validate(width, 20, 'width');
+	validate(height, 20, 'height');
+	validate(padding, 4, 'padding');
 	const board = Array(height).fill(0).map(x => Array(width).fill(0));
 	const dash = (start, end, rowIndex) => {
 		for (let colIndex = start; colIndex <= end; colIndex++) {

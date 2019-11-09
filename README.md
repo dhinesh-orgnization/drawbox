@@ -19,7 +19,8 @@ print(pixelArray);
 
 ### Sample output
 #### Scenario 1: (Width: 20, Height:40, padding: 6)
-![](https://github.com/dhineshpandiyan/drawbox/tree/master/doc/20-40-6.png)
+![](https://github.com/dhineshpandiyan/drawbox/blob/master/doc/20-40-6.png)
 
 #### Scenario 2: (Width: 60, Height:60, padding: 10)
-![](https://github.com/dhineshpandiyan/drawbox/tree/master/doc/60-60-10.png)
+![](https://github.com/dhineshpandiyan/drawbox/blob/master/doc/60-60-10.png)
+

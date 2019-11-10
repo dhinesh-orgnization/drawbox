@@ -1,6 +1,8 @@
 Drawbox
 =======
 
+[![Build Status](https://travis-ci.com/dhinesh-orgnization/drawbox.svg?branch=master)](https://travis-ci.com/dhinesh-orgnization/drawbox)
+
 Simple test project to recursive box shape.
 
 ### Installation

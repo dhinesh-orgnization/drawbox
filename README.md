@@ -2,6 +2,7 @@ Drawbox
 =======
 
 [![Build Status](https://travis-ci.com/dhinesh-orgnization/drawbox.svg?branch=master)](https://travis-ci.com/dhinesh-orgnization/drawbox)
+[![Dependency Status](https://david-dm.org/dhinesh-orgnization/drawbox.svg?style=flat-square)](https://david-dm.org/dhinesh-orgnization/drawbox)
 
 Simple test project to recursive box shape.
 

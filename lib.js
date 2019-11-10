@@ -55,7 +55,6 @@ const print = (pixelArray) => {
 	});    
 };
 
-
 module.exports = {
 	draw,
 	print
